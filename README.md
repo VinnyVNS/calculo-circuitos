@@ -1,1 +1,1 @@
-Cálculo de circuitos.
+# calculo-circuitos
